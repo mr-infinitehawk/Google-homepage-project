@@ -1,0 +1,13 @@
+.header {
+    
+    text-align: right;
+    
+  }
+
+
+li {
+    display: inline;
+  }
+  .center {
+    text-align: -webkit-center;
+  }
